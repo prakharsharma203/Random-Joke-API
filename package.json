@@ -1,0 +1,20 @@
+{
+  "name": "jokes-api",
+  "version": "1.0.0",
+  "description": "Jokes Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Api",
+    "Express"
+  ],
+  "author": "Prakhar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
